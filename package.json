@@ -1,0 +1,11 @@
+{
+  "name": "code.",
+  "version": "1.0.0",
+  "description": "First NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "code ."
+  },
+  "author": "Eesha Kavuri",
+  "license": "ISC"
+}
